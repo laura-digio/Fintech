@@ -1,42 +1,42 @@
 # Resources
 > Must-know high-level resources for offering mobile digital solutions.
 
-## [UI Goodies Inspiration](https://uigoodies.com/inspiration)
+## A
 
-The best digital design resources from inspiration.
+### [Amazon API Gateway](https://aws.amazon.com/api-gateway)
+Amazon's [API gateway](/doc/tech-glossary.md#api-gateway).
 
-## [Amazon SNS](https://docs.aws.amazon.com/sns)
-
+### [Amazon SNS](https://docs.aws.amazon.com/sns)
 Amazon Simple Notification Service.
 
-## [AWS Lambda](http://aws.amazon.com/lambda)
+### [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines)
+Apple's Human Interface Guidelines (HIG) is a set of recommendations for developers on how to design applications for the iOS and macOS platforms.
 
-Amazon's [FaaS](/doc/glossary.md#faas).
+### [AWS Lambda](http://aws.amazon.com/lambda)
+Amazon's [FaaS](/doc/tech-glossary.md#faas).
 
-## [Azure Functions](http://azure.microsoft.com/products/functions)
+### [Azure Functions](http://azure.microsoft.com/products/functions)
+Microsoft's [FaaS](/doc/tech-glossary.md#faas).
 
-Microsoft's [FaaS](/doc/glossary.md#faas).
+## C
 
-## [Google Cloud Functions](https://cloud.google.com/functions)
+### [Claudia.js](https://claudiajs.com/tutorials/hello-world-api-gateway.html)
+Create **serverless web API** using [***AWS Lambda***](#aws-lambda) and [***Amazon API Gateway***](#amazon-api-gateway).
 
-Google's [FaaS](/doc/glossary.md#faas).
+## G
 
-## [Amazon API Gateway](https://aws.amazon.com/api-gateway)
+### [Google Cloud Functions](https://cloud.google.com/functions)
+Google's [FaaS](/doc/tech-glossary.md#faas).
 
-Amazon's [API gateway](/doc/glossary.md#api-gateway).
+## S
 
-## [Claudia.js](https://claudiajs.com/tutorials/hello-world-api-gateway.html)
-
-Create **serverless web API** using ***AWS Lambda*** and ***Amazon API Gateway***.
-
-## [Spotlight](https://stoplight.io)
-
+### [Spotlight](https://stoplight.io)
 Design, document, and build APIs faster.
 
-## [Swagger](https://swagger.io)
-
+### [Swagger](https://swagger.io)
 Swagger is a set of open-source tools built around the OpenAPI Specification that can help you design, build, document and consume REST APIs.
 
-## [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines)
+## U
 
-Apple's Human Interface Guidelines (HIG) is a set of recommendations for developers on how to design applications for the iOS and macOS platforms.
+### [UI Goodies > Inspiration](https://uigoodies.com/inspiration)
+The best digital design resources from inspiration.

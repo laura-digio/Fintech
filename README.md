@@ -15,4 +15,4 @@ Terminology and definitions for the fintech industry.
 
 # Resources
 
-Must-know high-level [resources](/doc/resources.md) for offering holistic mobile solutions.
+Must-know high-level [resources](/doc/resources.md) for offering holistic fintech solutions.

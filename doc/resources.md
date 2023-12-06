@@ -1,5 +1,5 @@
 # Resources
-> Must-know high-level resources for offering mobile digital solutions.
+> Must-know high-level resources for offering holistic fintech solutions
 
 ## A
 

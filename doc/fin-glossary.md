@@ -54,7 +54,7 @@ The neobanks does not have the same license as the Challenger Bank, but they hav
 
 ## Open banking
 
-System that allows traditional banks to expose to third parties, through APIs, the financial data of its customers ([AISP](#account-information-service-providers-aisp)) and Financial Services [(PISP)](#payment-initiation-service-providers-pisp). Open Banking suppliers allow traditional banking to comply with the [PSD2](#payment-services-directive-2-psd2) regulation.
+System that allows traditional banks to expose to third parties, through APIs, the financial data of its customers ([AISP](#account-information-service-providers-aisp)) and Financial Services ([PISP](#payment-initiation-service-providers-pisp)). Open Banking suppliers allow traditional banking to comply with the [PSD2](#payment-services-directive-2-psd2) regulation.
 
 # P
 

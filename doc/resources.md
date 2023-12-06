@@ -29,3 +29,11 @@ Amazon's [API gateway](/doc/glossary.md#api-gateway).
 ## [Claudia.js](https://claudiajs.com/tutorials/hello-world-api-gateway.html)
 
 Create **serverless web API** using ***AWS Lambda*** and ***Amazon API Gateway***.
+
+## [Spotlight](https://stoplight.io)
+
+Design, document, and build APIs faster.
+
+## [Swagger](https://swagger.io)
+
+Swagger is a set of open-source tools built around the OpenAPI Specification that can help you design, build, document and consume REST APIs.

@@ -1,5 +1,4 @@
 # Resources
-
 > Must-know high-level resources for offering mobile digital solutions.
 
 ## [UI Goodies Inspiration](https://uigoodies.com/inspiration)
@@ -37,3 +36,7 @@ Design, document, and build APIs faster.
 ## [Swagger](https://swagger.io)
 
 Swagger is a set of open-source tools built around the OpenAPI Specification that can help you design, build, document and consume REST APIs.
+
+## [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines)
+
+Apple's Human Interface Guidelines (HIG) is a set of recommendations for developers on how to design applications for the iOS and macOS platforms.

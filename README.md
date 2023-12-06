@@ -6,10 +6,13 @@
 
 ---
 
-# [Glossary](/doc/glossary.md)
+# Glossary
+
+Terminology and definitions for the fintech industry.
+
+- [Financial terminology](/doc/fin-glossary.md)
+- [Technical terminology](/doc/tech-glossary.md)
 
 # Resources
 
 Must-know high-level [resources](/doc/resources.md) for offering holistic mobile solutions.
-
-# [References](/doc/references.md)

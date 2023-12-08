@@ -30,7 +30,7 @@
 
 > Function-as-a-Service
 
-**FaaS** is a cloud computing service model that allows developers to run functions on demand. It is a type of [serverless computing](#serverless-computing) where the cloud provider manages the underlying infrastructure and resources. It is often used to run short-lived functions in response to events, also known as **serverless functions**.
+**FaaS** is a [cloud computing](#cloud-computing) service model that allows developers to run functions on demand. It is a type of [serverless computing](#serverless-computing) where the cloud provider manages the underlying infrastructure and resources. It is often used to run short-lived functions in response to events, known as **serverless functions**.
 
 - [AWS Lambda](/doc/resources.md#aws-lambda)
 - [Azure Functions](/doc/resources.md#azure-functions)
@@ -52,7 +52,7 @@
 
 ## Serverless computing
 
-**Serverless computing** is a cloud computing execution model in which the cloud provider runs the server, and dynamically manages the allocation of machine resources. Pricing is based on the actual amount of resources consumed by an application, rather than on pre-purchased units of capacity. It can be a form of utility computing.
+**Serverless computing** is a [cloud computing](#cloud-computing) execution model in which the cloud provider runs the server, and dynamically manages the allocation of machine resources. Pricing is based on the actual amount of resources consumed by an application, rather than on pre-purchased units of capacity. It can be a form of utility computing.
 
 # W
 

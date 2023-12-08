@@ -4,19 +4,19 @@
 
 ## 3D Secure (3DS)
 
-To achieve greater protection against fraud, 3D Secure (3DS) asks customers to complete an additional passage of verification before the card issuer at the time of payment.Normally, the customer refers to an authentication page on your bank's website to enter a password associated with the card or a code sent to your phone.
+To achieve greater protection against fraud, 3D Secure (3DS) asks customers to complete an additional layer of verification before the card issuer at the time of payment. Normally, the customer refers to an authentication page on your bank's website to enter a password associated with the card or a code sent to your phone.
 
 # A
 
 ## Account information service providers (AISP)
 
-They are companies that, with the consent of the client, can access their bank accounts to obtain information about them. They can not perform operations or modify the data of the accounts.
+They are companies that, with the consent of the client, can access their bank accounts to obtain information about them. They cannot perform operations or modify the data of the accounts.
 
 # B
 
 ## Banking-as-a-Service (BaaS)
 
-Any platform that allows Fintech companies to offer user -centered experiences instead of the product;Through the use of APIS, cloud architecture, microservices, real -time processing, and complying with data protection industry standards.
+Any platform that allows Fintech companies to offer user-centered experiences (instead of the product) through the use of APIS, cloud architecture, microservices, real-time processing, and complying with data protection industry standards.
 
 # C
 

@@ -21,7 +21,7 @@ Microsoft's [FaaS](/doc/tech-glossary.md#faas).
 ## C
 
 ### [Claudia.js](https://claudiajs.com/tutorials/hello-world-api-gateway.html)
-Create **serverless web API** using [***AWS Lambda***](#aws-lambda) and [***Amazon API Gateway***](#amazon-api-gateway).
+Create [serverless](/doc/tech-glossary.md#serverless-computing) **API** using [***AWS Lambda***](#aws-lambda) and [***Amazon API Gateway***](#amazon-api-gateway).
 
 ## G
 

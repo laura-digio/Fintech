@@ -21,7 +21,7 @@ Microsoft's [FaaS](/doc/tech-glossary.md#faas).
 ## C
 
 ### [Claudia.js](https://claudiajs.com/tutorials/hello-world-api-gateway.html)
-Create [serverless](/doc/tech-glossary.md#serverless-computing) **API** using [***AWS Lambda***](#aws-lambda) and [***Amazon API Gateway***](#amazon-api-gateway).
+Create [serverless](/doc/tech-glossary.md#serverless-computing) **APIs** using [***AWS Lambda***](#aws-lambda) and [***Amazon API Gateway***](#amazon-api-gateway).
 
 ## G
 
@@ -39,4 +39,4 @@ Swagger is a set of open-source tools built around the OpenAPI Specification tha
 ## U
 
 ### [UI Goodies > Inspiration](https://uigoodies.com/inspiration)
-The best digital design resources from inspiration.
+The best digital design resources for inspiration.

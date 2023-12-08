@@ -30,7 +30,7 @@ Google's [FaaS](/doc/tech-glossary.md#faas).
 
 ## S
 
-### [Spotlight](https://stoplight.io)
+### [Stoplight](https://stoplight.io)
 Design, document, and build APIs faster.
 
 ### [Swagger](https://swagger.io)

@@ -1,3 +1,5 @@
+> **Technological terminology**
+
 # A
 
 ## API gateway

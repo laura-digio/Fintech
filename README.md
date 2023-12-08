@@ -11,7 +11,7 @@
 Terminology and definitions for the fintech industry.
 
 - [Financial terminology](/doc/fin-glossary.md)
-- [Technical terminology](/doc/tech-glossary.md)
+- [Technological terminology](/doc/tech-glossary.md)
 
 # Resources
 

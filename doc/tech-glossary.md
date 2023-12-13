@@ -42,6 +42,12 @@
 
 **Proxy** is a server that acts as an intermediary for requests from clients seeking resources from other servers.
 
+# R
+
+## RESTful API
+
+**REST** defines a consistent and uniform interface for interactions between clients and servers. For example, the HTTP-based REST APIs make use of the **standard HTTP methods** (GET, POST, PUT, DELETE, etc.) and the URIs (Uniform Resource Identifiers) to identify resources. **REST APIs** are **stateless**, meaning that calls can be made independently of one another, and each call contains all of the data necessary to complete itself successfully.
+
 # S
 
 ## SaaS

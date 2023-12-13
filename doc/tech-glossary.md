@@ -46,7 +46,9 @@
 
 ## RESTful API
 
-**REST** defines a consistent and uniform interface for interactions between clients and servers. For example, the HTTP-based REST APIs make use of the **standard HTTP methods** (GET, POST, PUT, DELETE, etc.) and the URIs (Uniform Resource Identifiers) to identify resources. **REST APIs** are **stateless**, meaning that calls can be made independently of one another, and each call contains all of the data necessary to complete itself successfully.
+REST defines a consistent and uniform interface for interactions between clients and servers. For example, the **HTTP-based REST APIs** make use of the **standard HTTP methods** (GET, POST, PUT, PATCH, DELETE) and the URIs (Uniform Resource Identifiers) to identify resources. REST APIs are **stateless**, meaning that calls can be made independently of one another, and each call contains all of the data necessary to complete itself successfully.
+
+![assets/http_rest_api.png](assets/http_rest_api.png)
 
 # S
 

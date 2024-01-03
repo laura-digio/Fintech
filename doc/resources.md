@@ -28,6 +28,14 @@ Create [serverless](/doc/tech-glossary.md#serverless-computing) **APIs** using [
 ### [Google Cloud Functions](https://cloud.google.com/functions)
 Google's [FaaS](/doc/tech-glossary.md#faas).
 
+## R
+
+### [RabbitMQ](https://www.rabbitmq.com)
+RabbitMQ is a message broker.
+
+### [Redis](https://redis.io)
+Remote Dictionary Server (Redis) is an in-memory data store used as a database, cache, streaming engine, and message broker.
+
 ## S
 
 ### [Stoplight](https://stoplight.io)

@@ -31,10 +31,10 @@ Google's [FaaS](/doc/tech-glossary.md#faas).
 ## R
 
 ### [RabbitMQ](https://www.rabbitmq.com)
-RabbitMQ is a message broker.
+RabbitMQ is a message broker software that implements the Advanced Message Queuing Protocol (AMQP). It supports various messaging patterns such as publish/subscribe, request/reply, and point-to-point communication. RabbitMQ can be used for tasks like scaling out applications, high availability, load balancing, and buffering and streaming messages.
 
 ### [Redis](https://redis.io)
-Remote Dictionary Server (Redis) is an in-memory data store used as a database, cache, streaming engine, and message broker.
+Remote Dictionary Server (Redis) is an in-memory data store used as a database, cache, streaming engine, and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, and more. Redis provides high availability and can handle large data sets with very low latency.
 
 ## S
 

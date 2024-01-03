@@ -75,13 +75,24 @@ They are companies that, with the consent of the client, can access their bank a
 
 ## Strong Customer Authentication (SCA)
 
-The regulations regarding the reinforced authentication of customers as part of the second directive on payment services (PSD2) in Europe and other similar regulations in the United Kingdom, India and Australia may require the use of 3DS for card payments.
+The regulations regarding the reinforced authentication of customers as part of the second directive on payment services ([PSD2](#payment-services-directive-2-psd2)) in Europe and other similar regulations in the United Kingdom, India and Australia may require the use of [3DS](#3d-secure-3ds) for card payments.
+
+# W
+
+## Wallet
+
+A *digital wallet service* is a type of **electronic payment system** that allows users to store and manage their financial transactions securely. They typically involve a mobile application that users can download to their smartphones, and may also include features such as mobile ticketing, loyalty programs, and the ability to pay with multiple payment methods.
+
+Companies like Apple, Google, and Samsung are investing heavily in developing their own digital wallet services, such as Apple Pay and Google Pay.
+
+- [**Apple Pay**](https://www.apple.com/apple-pay)
+- [**Google Pay**](https://pay.google.com)
+
+In the context of [PSD2](#payment-services-directive-2-psd2) and similar regulations, digital wallet services play a crucial role in ensuring the security and compliance of electronic payments. By requiring the use of secure and reliable payment systems, such as [3DS](#3d-secure-3ds), these regulations aim to protect both consumers and businesses from potential fraud and identity theft.
 
 # Z
 
 # WIP
-
-- https://www.helpmycash.com/banco/bancos-compatibles-con-apple-pay-samsung-pay-o-google-pay/
 
 - IBAN, BIC & SWIFT https://www.bbva.com/es/salud-financiera/swift-e-iban/
 
